@@ -1,7 +1,7 @@
 {
 	"type": "light",
 	"colors": {
-		"editor.background": "#FAFAFA",
+		"editor.background": "#eef5eb",
 		"editor.foreground": "#212121",
 		"editor.lineHighlightBackground": "#01579B11",
 		"editor.selectionBackground": "#01579B22",
